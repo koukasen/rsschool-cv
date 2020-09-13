@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page-main {
+  display: block;
+  width: 1024px;
+  margin: 0 auto;
+}
+  
