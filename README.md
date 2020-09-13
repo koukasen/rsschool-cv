@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School Repo
+https://github.com/koukasen/rsschool-cv
