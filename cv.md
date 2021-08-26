@@ -1,4 +1,5 @@
 # Hello, my name is __Oleg Ank__
+![Oleg's Photo](/photo-personal.jpg)
 ## Contacts:
 * ### Location: Saint-Petersburg, Russia
 * ### Language: English, Russian
@@ -17,11 +18,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Photoshop, Figma
 * Editors: Sublime, Atom, VSCode
 ## My projects:
-* example
-* example
-* example
+1. Example
+1. Example
+1. Example
 ## Code Example:
-JS example here
+```JS example here ```
 ## Education:
 * ### University: 
   #### Bachelor, ITMO University, Saint-Petersburg
@@ -33,26 +34,23 @@ JS example here
   * [Code-Basics](https://ru.code-basics.com/)
   * [Open-edu](https://openedu.ru/)
   * [Harvard CS50 Youtube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-
 ## Work expirience:
 * ### 2017 - now 
-  * __Analytist__
+  * __Systems Analyst__
   * St. Petersburg Information and Analytical Center
 * ### 2020 - 2021 
-  * __Aircraft preparation control dispatcher__
+  * __Aircraft Preparation Control Dispatcher__
   * JetPort SPB, Pulkovo Airport, Saint-Petersburg
 * ### 2017 - 2020 
   * __Ground Handling Specialist__
-  * NCG Company, Pulkovo Airport, Saint-Petersburg
+  * Northern-Capital Gateway Company, Pulkovo Airport, Saint-Petersburg
 * ### 2014 - 2017 
   * __Passenger Service Agent__
-  * NCG Company, Pulkovo Airport, Saint-Petersburg
-
-
+  * Northern-Capital Gateway Company, Pulkovo Airport, Saint-Petersburg
 ## Hobbies:
-* hobbie icon
-* hobbie icon
-* hobbie icon
+* Hobbie icon
+* Hobbie icon
+* Hobbie icon
 
 
 
