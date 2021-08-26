@@ -35,18 +35,18 @@ JS example here
   * [Harvard CS50 Youtube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 
 ## Work expirience:
-* 2017 - now 
-  * Analytist
-  * __St. Petersburg Information and Analytical Center__
-* 2020 - 2021 
-  * Aircraft preparation control dispatcher
-  * __JetPort SPB, Pulkovo Airport, Saint-Petersburg__
-* 2017 - 2020 
-  * Ground Handling Specialist
-  * __NCG Company, Pulkovo Airport, Saint-Petersburg__
-* 2014 - 2017 
-  * Passenger Service Agent
-  * __NCG Company, Pulkovo Airport, Saint-Petersburg__
+* ### 2017 - now 
+  * __Analytist__
+  * St. Petersburg Information and Analytical Center
+* ### 2020 - 2021 
+  * __Aircraft preparation control dispatcher__
+  * JetPort SPB, Pulkovo Airport, Saint-Petersburg
+* ### 2017 - 2020 
+  * __Ground Handling Specialist__
+  * NCG Company, Pulkovo Airport, Saint-Petersburg
+* ### 2014 - 2017 
+  * __Passenger Service Agent__
+  * NCG Company, Pulkovo Airport, Saint-Petersburg
 
 
 ## Hobbies:
