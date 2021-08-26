@@ -2,7 +2,7 @@
 ## Contacts:
 * Location: Saint-Petersburg, Russia
 * Language: English, Russian
-* [Telegram]:(https://t.me/olejonskiy) [https://t.me/olejonskiy](https://t.me/olejonskiy)
+* [https://t.me/olejonskiy]:(Telegram) [https://t.me/olejonskiy](https://t.me/olejonskiy)
 * [email]:(oleg.ank.spb@gmail.com) [oleg.ank.spb@gmail.com](oleg.ank.spb@gmail.com)
 * [phone]:(89819121312) [89819121312](89819121312)
 * [instagram]:(https://www.instagram.com/koukasen/) [https://www.instagram.com/koukasen/](https://www.instagram.com/koukasen/)
