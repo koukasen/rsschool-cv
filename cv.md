@@ -18,9 +18,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Photoshop, Figma
 * Editors: Sublime, Atom, VSCode
 ## My projects:
-1. Example
-1. Example
-1. Example
+* Example
+* Example
+* Example
 ## Code Example:
 ```javascript
 function cake(x, y){
