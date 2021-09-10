@@ -59,9 +59,9 @@ let sum = 0;
   * __Passenger Service Agent__
   * Northern-Capital Gateway Company, Pulkovo Airport, Saint-Petersburg
 ## Hobbies:
-* Hobbie 
-* Hobbie
-* Hobbie
+* Hobbie icon
+* Hobbie icon
+* Hobbie icon
 
 
 
