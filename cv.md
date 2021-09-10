@@ -22,19 +22,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1. Example
 1. Example
 ## Code Example:
-```JS example here ```
+```javascript
+function cake(x, y){
+let sum = 0;
+  for(var i = 0; i < y.length; i++) {
+    if(i%2!=0)
+      sum=sum+(y[i].charCodeAt(0)-96);
+    else
+      sum = sum + y[i].charCodeAt(0);
+  }
+  return ((x / 100) * 70)  > sum ?  'That was close!' : 'Fire!'
+}
+```
 ## Education:
 * ### University: 
   #### Bachelor, ITMO University, Saint-Petersburg
   * Faculty of Management Methods and Techniques "Academy LIMTU" 
 * ### Courses:
   * [RS School](https://rs.school/)
-  * [HTML Academy](https://htmlacademy.ru/study) Certificates [HTML & CSS Basic](https://assets.htmlacademy.ru/certificates/intensive/43/94673.pdf?1512437263&_ga=2.43520224.479070616.1629986779-911204491.1629796651) and [Professional](https://assets.htmlacademy.ru/certificates/intensive/157/94673.pdf?1595825873&_ga=2.55605870.479070616.1629986779-911204491.1629796651)levels 
+  * [HTML Academy](https://htmlacademy.ru/study)[HTML & CSS Basic](https://assets.htmlacademy.ru/certificates/intensive/43/94673.pdf?1512437263&_ga=2.43520224.479070616.1629986779-911204491.1629796651) and [Professional](https://assets.htmlacademy.ru/certificates/intensive/157/94673.pdf?1595825873&_ga=2.55605870.479070616.1629986779-911204491.1629796651) 
   * [Udacity](https://www.udacity.com/)
   * [Code-Basics](https://ru.code-basics.com/)
   * [Open-edu](https://openedu.ru/)
   * [Harvard CS50 Youtube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-## Work expirience:
+## Work experience:
 * ### 2017 - now 
   * __Systems Analyst__
   * St. Petersburg Information and Analytical Center
@@ -48,9 +59,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   * __Passenger Service Agent__
   * Northern-Capital Gateway Company, Pulkovo Airport, Saint-Petersburg
 ## Hobbies:
-* Hobbie icon
-* Hobbie icon
-* Hobbie icon
+* Hobbie 
+* Hobbie
+* Hobbie
 
 
 
